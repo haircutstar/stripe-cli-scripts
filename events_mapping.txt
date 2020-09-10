@@ -1,0 +1,3 @@
+invoice.payment_action_required,invoice.payment_failed|http://localhost/invoice_action_required
+invoice.finalized|http://localhost/invoice_finalized
+charge.succeeded|http://localhost/charge_succeeded
